@@ -1,0 +1,19 @@
+uživatel: Leo
+server: 193.85.203.188
+heslo: 489789
+databaze: charikov
+
+uživatel: Ema
+server: 193.85.203.188
+heslo: 78478
+databaze: charikov
+
+uživatel: Kris
+server: 193.85.203.188
+heslo: 97497
+databaze: charikov
+
+uživatel: John
+server: 193.85.203.188
+heslo: 12345
+databaze: charikov
